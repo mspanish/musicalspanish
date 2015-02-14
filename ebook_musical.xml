@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ebook>
+
+	<bookpages path="ebookm/" tree="1">
+
+<!-- page numbers 1 through 10 -->
+		<page file="4.swf" > <![CDATA[Contents Page 1]]>  </page>
+		<page file="5.swf" > <![CDATA[Contents Page 2]]>  </page>
+		<page file="6.swf" > <![CDATA[Musical Learning]]> </page>
+		<page file="7.swf" > <![CDATA[How to Use This Program]]> </page>
+		<page file="8.swf" > <![CDATA[La Bamba Lyrics Page 1]]> </page>
+		<page file="9.swf" > <![CDATA[La Bamba Lyrics Page 2]]> </page>
+		<page file="10.swf" > <![CDATA[Pronunciation: Natural vs. Artificial Stress]]> </page>
+		<page file="11.swf" > <![CDATA[Natural Stress, Cont.]]> </page>
+		<page file="12.swf" > <![CDATA[Artificial Stress: Accent Marks]]> </page>	
+		<page file="13.swf" > <![CDATA[Activity 1 La Bamba]]> </page>
+		
+			
+<!-- page numbers 10 through 20  -->	
+			
+		<page file="14.swf" > <![CDATA[Alphabet - Vowels]]> </page>	
+		<page file="15.swf" > <![CDATA[Vowel Sounds from La Bamba]]> </page>	
+		<page file="16.swf" > <![CDATA[Consonant Rules]]> </page>	
+		<page file="17.swf" > <![CDATA[Masculine and Feminine]]> </page>	
+		<page file="18.swf" > <![CDATA[Plural]]> </page>
+		<page file="19.swf" > <![CDATA[Future Tense Verbs]]> </page>
+		<page file="20.swf" > <![CDATA[Activity 2 La Bamba]]> </page>
+		<page file="139.swf"> <![CDATA[La Bamba Listening Quiz]]> </page>		
+		<page file="21.swf" > <![CDATA[La Bamba at a Glance]]> </page>
+		<page file="22.swf" > <![CDATA[Carnavalito Lyrics 1]]> </page>
+		
+<!-- page numbers 20 through 30  -->		
+	
+		<page file="23.swf" > <![CDATA[Carnavalito Lyrics 2]]> </page>		
+		<page file="24.swf" > <![CDATA[People Words]]> </page>	
+		<page file="25.swf" > <![CDATA[Present Verbs]]> </page>	
+		<page file="26.swf" > <![CDATA[Present Verb Conjugations]]> </page>	
+		<page file="27.swf" > <![CDATA[Irregular Verbs]]> </page>	
+		<page file="28.swf" > <![CDATA[Diminutives]]> </page>
+		<page file="29.swf" > <![CDATA[Oye: Hey Listen!]]> </page>
+		<page file="30.swf" > <![CDATA[Activity Carnavalito]]> </page>
+		<page file="31.swf" > <![CDATA[Carnavalito at a Glance]]> </page>
+		<page file="32.swf" > <![CDATA[La Cucaracha Lyrics 1]]> </page>
+	
+<!-- page numbers 30 through 40  -->		
+		
+		<page file="33.swf" > <![CDATA[La Cucaracha Lyrics 2]]> </page>
+		<page file="33.swf" > <![CDATA[Greetings]]> </page>	
+		<page file="34.swf" > <![CDATA[Polite Things to Say]]> </page>
+		<page file="35.swf" > <![CDATA[The Verb Poder]]> </page>
+		<page file="36.swf" > <![CDATA[Word for That - ESO]]> </page>
+		<page file="36.swf" > <![CDATA[Activity La Cucaracha]]> </page>
+		<page file="37.swf" > <![CDATA[La Cucaracha at a Glance]]> </page>	
+		<page file="38.swf" > <![CDATA[Cielito Lindo Lyrics 1]]> </page>	
+		<page file="39.swf" > <![CDATA[Cielito Lindo Lyrics 2]]> </page>
+		<page file="40.swf" > <![CDATA[Informal Commands]]> </page>	
+		<page file="41.swf" > <![CDATA[Formal Commands]]> </page>
+		
+<!-- page numbers 40 through 50 -->
+
+		<page file="42.swf" > <![CDATA[Cognates]]> </page>
+		<page file="43.swf" > </page>	
+		<page file="44.swf" > <![CDATA[The Verb To Go]]> </page>
+		<page file="45.swf" > </page>
+		<page file="46.swf" > <![CDATA[Question Words]]></page>
+		<page file="47.swf" > <![CDATA[Active ING Verbs]]> </page>
+		<page file="48.swf" > <![CDATA[Activity Cielito Lindo]]> </page>
+		<page file="49.swf" > <![CDATA[Cielito Lindo at a Glance]]> </page>	
+		<page file="50.swf" > <![CDATA[A Media Luz Lyrics 1]]> </page>	
+		<page file="51.swf" > <![CDATA[A Media Luz Lyrics 2]]> </page>
+
+		
+		
+		
+<!-- page numbers 50 through 60  -->				
+		<page file="52.swf" > <![CDATA[Words Around the House]]> </page>
+		<page file="53.swf" > <![CDATA[Hay: There Is, There Are]]> </page>
+		<page file="54.swf" > <![CDATA[Days of the Week]]> </page> 
+		<page file="54.swf" > <![CDATA[Numbers]]> </page>
+		<page file="55.swf" >  </page>
+		<page file="56.swf" > <![CDATA['To Be' Ser v. Estar]]> </page>
+		<page file="57.swf" > <![CDATA[Ser and Estar in Songs]]> </page>
+		<page file="58.swf" > <![CDATA[A Media Luz Activity]]> </page>
+		<page file="59.swf" > <![CDATA[A Media Luz at a Glance]]> </page>			
+		<page file="60.swf" > <![CDATA[Guantanamera Lyrics 1]]> </page>
+		<page file="61.swf" > <![CDATA[Guantanamera Lyrics 2]]> </page>
+		
+		
+		
+<!-- page numbers 60 through 70   -->				
+	
+		<page file="62.swf" > <![CDATA[Doubt, Possibility, Should]]> </page>
+		<page file="63.swf" > <![CDATA[Subjunctive Intro]]> </page>
+		<page file="64.swf" > <![CDATA[Subjunctive Examples]]> </page>
+		<page file="65.swf" > <![CDATA[To Know: Saber v. Conocer]]> </page>
+		<page file="66.swf" > <![CDATA[Guantanamera Activity]]> </page>
+		<page file="67.swf" > <![CDATA[Guantanamera at a Glance]]> </page>
+		<page file="68.swf" > <![CDATA[Ay Cosita Linda Lyrics 1]]> </page>
+		<page file="69.swf" > <![CDATA[Ay Cosita Linda Lyrics 2]]> </page>				
+		<page file="70.swf" > <![CDATA[Whose is it? Possession Words]]> </page>
+		<page file="71.swf" > <![CDATA[Pronouns]]> </page>	
+		
+<!-- page numbers 70 through 80  -->		
+		
+		<page file="72.swf" > <![CDATA[Object Pronouns]]> </page>
+		<page file="73.swf" > <![CDATA[Past Tense Verbs]]> </page>	
+		<page file="74.swf" > <![CDATA[Irregular Past Verbs]]> </page>	
+		<page file="75.swf" > <![CDATA[Ongoing Past Verbs]]> </page>
+		<page file="76.swf" > <![CDATA[Ay Cosita Linda Activity]]> </page>	
+		<page file="77.swf" > <![CDATA[Ay Cosita Linda at a Glance]]> </page>	
+		<page file="78.swf" > <![CDATA[Rancho Grande Lyrics 1]]> </page>	
+		<page file="79.swf" > <![CDATA[Rancho Grande Lyrics 2]]> </page>	
+		<page file="80.swf" > <![CDATA[Sizes and Comparisons]]> </page>					
+		
+<!-- page numbers 100 through 110  -->			
+		
+		
+		<page file="101.swf" > <![CDATA[Teachers Guide Page]]> </page>
+		<page file="102.swf" > </page>
+		<page file="103.swf" > </page>
+		<page file="124.swf" > <![CDATA[Travel Phrases Guide]]> </page>
+		<page file="125.swf" > </page>
+		<page file="126.swf" > </page>
+		<page file="127.swf" > </page>
+
+
+
+	</bookpages>
+
+	<audiolist path="flash_musical/mp3s/" >
+<!-- la bamba lyrics page 1  pg 8.swf -->
+		<sound id="1" file="1.mp3" title="La Bamba Song"/>
+		<sound id="106" file="1karaoke.mp3" title="La Bamba Karaoke"/>
+		<sound id="108" file="1lyrics.mp3" title="La Bamba Lyrics" />
+		<sound id="101" file="ba01.mp3" title="baila bamba  para bailar la bamba  una poca de gracia" />
+		<sound id="102" file="ba02.mp3" title="ay arriba y arriba" />
+		<sound id="103" file="ba03.mp3" title="para bailar la bamba  se necesita  una poca de gracia" />
+		<sound id="104" file="ba04.mp3" title="una poca de gracia y otra cosita  y arriba y arriba" />
+		<sound id="105" file="ba02.mp3" title="ay arriba y arriba" />
+<!-- la bamba lyrics page 2 pg 9.swf  -->
+		<sound id="110" file="ba05.mp3" title="arriba iré  arriba iré  arriba me iré" />
+		<sound id="111" file="ba01.mp3" title="baila bamba  para bailar la bamba  una poca de gracia" />
+		<sound id="112" file="ba02.mp3" title="ay arriba y arriba" />
+		<sound id="113" file="ba06.mp3" title="yo no soy marinero  yo no soy marinero" />
+		<sound id="114" file="ba09.mp3" title="por ti seré  por ti seré" />
+		<sound id="115" file="ba03.mp3" title="para bailar la bamba  se necesita  una poca de gracia" />
+		<sound id="190" file="ba02.mp3" title="ay arriba y arriba" />
+<!-- la bamba grammar sounds -->
+		<sound id="116" file="pbail.mp3" title="para bailar la bamba" />
+		<sound id="117" file="poca.mp3" title="una poca de gracia" />
+		<sound id="118" file="porti.mp3" title="por ti seré" />
+		<sound id="119" file="que.mp3" title="que" />
+        <sound id="120" file="guerra.mp3" title="guerra" />
+        <sound id="121" file="arribire.mp3" title="arriba iré" />
+<!-- la bamba sound quiz 139.swf -->
+        <sound id="131" file="pbail.mp3" title="para bailar __ bamba" />
+		<sound id="132" file="ba06.mp3" title="yo no ___ marinero" />
+		<sound id="133" file="ba02.mp3" title="ay arriba y ______" />
+		<sound id="134" file="senecesita.mp3" title="se ________ una poca de gracia" />
+        <sound id="135" file="ba10.mp3" title="una poca de gracia y ____ cosita" />
+        <sound id="136" file="porti.mp3" title="por ti ____" />
+        <sound id="137" file="ba06.mp3" title="__ no soy marinero" />
+		<sound id="141" file="me-ire.mp3" title="arriba me iré" />
+		<sound id="142" file="poca.mp3" title="una poca de ______" />
+		<sound id="143" file="ba01.mp3" title="para ______ la bamba, una poca de gracia" />
+
+<!-- Carnavalito lyrics page 1 pg 22.swf -->
+		<sound id="2" file="2.mp3" title="Carnavalito Song"/>
+		<sound id="206" file="2karaoke.mp3" title="Carnavalito Karaoke"/>
+		<sound id="208" file="2lyrics.mp3" title="Carnavalito Lyrics" />
+		<sound id="201" file="car01.mp3" title="qué hacemos compañeritos" />
+		<sound id="202" file="car02.mp3" title="con dos esposos enojaditos" />
+		<sound id="203" file="car03.mp3" title="ellos hablan muy poquito" />
+		<sound id="204" file="car04.mp3" title="cada uno por su ladito" />
+		<sound id="205" file="car05.mp3" title="cochito chico tumbai tai" />
+		<sound id="207" file="car06.mp3" title="tú no vas p' allá, tumbai tai" />
+		<sound id="209" file="car07.mp3" title="qué no vas p' allá, tumbai tai" />
+		<sound id="210" file="car08.mp3" title="mi cochito chico, tumbai tai" />
+		<sound id="211" file="car09.mp3" title="oye espera un minutito" />
+		
+<!-- Carnavalito lyrics page 2 pg 23.swf  -->
+		
+		<sound id="212" file="car10.mp3" title="mi marido es el loquito" />
+		<sound id="213" file="car11.mp3" title="él es un payasito todito" />
+		<sound id="214" file="car12.mp3" title="pero un payasito bonito" />
+        <sound id="215" file="car05.mp3" title="cochito chico tumbai tai" />
+		<sound id="216" file="car06.mp3" title="tú no vas p' allá, tumbai tai" />
+		<sound id="217" file="car07.mp3" title="qué no vas p' allá, tumbai tai" />
+		<sound id="218" file="car08.mp3" title="mi cochito chico, tumbai tai" />
+		<sound id="219" file="car13.mp3" title="óyeme yo soy muy seriecito" />
+		<sound id="220" file="car14.mp3" title="toma todo muy tranquilito" />
+		<sound id="221" file="car15.mp3" title="yo no quiero ningún conflicto" />
+		<sound id="222" file="car16.mp3" title="ella sólo quiere un besito" />
+		
+<!-- Carnavalito people identifiers -->
+		<sound id="230" file="yo.mp3" title="yo" />
+		<sound id="231" file="tu.mp3" title="tú" />
+		<sound id="232" file="usted.mp3" title="usted" />
+		<sound id="233" file="ella.mp3" title="ella" />
+        <sound id="234" file="el.mp3" title="él" />
+        <sound id="235" file="nosotros.mp3" title="nosotros" />
+        <sound id="236" file="ellos.mp3" title="ellos" />
+        <sound id="237" file="ustedes.mp3" title="ustedes" />
+		
+<!-- Carnavalito grammar sounds -->
+		<sound id="238" file="218.mp3" title="yo no quiero" />
+		<sound id="239" file="2.3.mp3" title="ellos hablan muy poquito" />
+		<sound id="240" file="2.20.mp3" title="ella quiere un besito" />
+		<sound id="241" file="2.21.mp3" title="pero un payasito bonito" />
+        <sound id="242" file="2.22.mp3" title="oye espero un minutito" />
+        
+<!-- Carnavalito sound quiz NOT DONE YET!!!! 
+        <sound id="254" file="2.16.mp3" title="para bailar __ bamba" />
+		<sound id="255" file="2.13.mp3" title="yo no ___ marinero" />
+		<sound id="256" file="2.5.mp3" title="ay arriba y ______" />
+		<sound id="257" file="2.xx.mp3" title="se ________ una poca de gracia" />
+        <sound id="258" file="2.xx.mp3" title="una poca de gracia y ____ cosita" />
+        <sound id="259" file="18.mp3" title="por ti ____" />
+        <sound id="250" file="2.42.mp3" title="arriba me iré" />
+		<sound id="251" file="2.17.mp3" title="una poca de ______" />
+		<sound id="252" file="2.30.mp3" title="para ______ Carnavalito, una poca de gracia" />
+-->		
+<!-- La Cucaracha lyrics page 1 -->
+		<sound id="3" file="3.mp3" title="La Cucaracha Song"/>
+		<sound id="381" file="381.karaoke.mp3" title="La Cucaracha Karaoke"/>
+		<sound id="382" file="382.lyrics.mp3" title="La Cucaracha Lyrics" />
+		<sound id="300" file="300.mp3" title="¡Hola, Carolina! Hola, Ernesto!" />
+		<sound id="301" file="301.mp3" title="te presento la cucaracha" />
+		<sound id="302" file="302.mp3" title="la cucaracha la cucaracha" />
+		<sound id="303" file="303.mp3" title="ya no puede caminar" />
+		<sound id="304" file="304.mp3" title="porque le falta" />
+		<sound id="305" file="305.mp3" title="porque no tiene" />
+		<sound id="306" file="306.mp3" title="una pata para andar" />
+		<sound id="307" file="307.mp3" title="una cosa no comprendo" />
+		<sound id="308" file="308.mp3" title="los hombres grandes con nintendo" />
+		<sound id="309" file="309.mp3" title="juegan eso todo el día" />
+		<sound id="310" file="310.mp3" title="jugando les da alegría" />
+		
+<!-- La Cucaracha lyrics page 2 -->
+		
+		<sound id="311" file="311.mp3" title="mi marido es el loquito" />
+		<sound id="312" file="312.mp3" title="él es un payasito todito" />
+		<sound id="313" file="313.mp3" title="pero un payasito bonito" />
+        <sound id="314" file="314.mp3" title="cochito chico tumbai tai" />
+
+<!-- La Cucaracha greetings -->		
+        <sound id="315" file="315.mp3" title="hola" />
+        <sound id="316" file=".mp3" title="mucho gusto" />
+		<sound id="317" file="2.99.mp3" title="el gusto es mío" />
+		<sound id="318" file="2.88.mp3" title="me llamo" />
+		<sound id="319" file="2.55.mp3" title="¿cómo te llamas?" />
+		<sound id="320" file="2.44.mp3" title="te presento" />
+		<sound id="321" file="2.11.mp3" title="adiós" />
+	
+		
+<!-- La Cucaracha grammar sounds -->
+		<sound id="322" file="322.mp3" title="yo me llamo Carolina" />
+		<sound id="323" file="323.mp3" title="ya no puede caminar" />
+        
+<!-- La Cucaracha sound quiz NOT DONE YET!!! 
+        <sound id="340" file="2.16.mp3" title="para bailar __ bamba" />
+		<sound id="341" file="2.13.mp3" title="yo no ___ marinero" />
+		<sound id="342" file="2.5.mp3" title="ay arriba y ______" />
+		<sound id="343" file="2.xx.mp3" title="se ________ una poca de gracia" />
+        <sound id="344" file="2.xx.mp3" title="una poca de gracia y ____ cosita" />
+        <sound id="345" file="18.mp3" title="por ti ____" />
+        <sound id="346" file="2.42.mp3" title="arriba me iré" />
+		<sound id="347" file="2.17.mp3" title="una poca de ______" />
+		<sound id="348" file="2.30.mp3" title="para ______ La Cucaracha, una poca de gracia" />
+-->				
+		
+<!-- Cielito Lindo lyrics page 1 -->
+		<sound id="4" file="4.mp3" title="Cielito Lindo Song"/>
+		<sound id="481" file="481.karaoke.mp3" title="Cielito Lindo Karaoke"/>
+		<sound id="482" file="482.lyrics.mp3" title="Cielito Lindo Lyrics" />
+		<sound id="400" file="400.mp3" title="ay ay ay ay canta y no llores" />
+		<sound id="401" file="401.mp3" title="porque cantando se aprende cielito lindo a cantarlo todo" />
+		<sound id="402" file="402.mp3" title="un estudiante nuevo Cielito Lindo va a la escuela" />
+		<sound id="403" file="403.mp3" title="y cuando llega a clase Cielito Lindo está su abuela" />
+		<sound id="404" file="400.mp3" title="ay ay ay ay canta y no llores" />
+		<sound id="405" file="405.mp3" title="porque hablando se aprende cielito lindo a decirlo todo" />
+		<sound id="406" file="406.mp3" title="quién es ese estudiante Cielito Lindo" />
+		
+<!-- Cielito Lindo lyrics page 2 -->		
+		<sound id="407" file="407.mp3" title="que canta tan fuerte" />
+		<sound id="408" file="408.mp3" title="cuando canta su parte Cielito Lindo me escapo qué suerte" />
+		<sound id="409" file="409.mp3" title="ay ay ay ay canta y no llores" />
+		<sound id="410" file="410.mp3" title="porque cantando se aprende cielito lindo a cantarlo todo" />		
+		<sound id="411" file="411.mp3" title="dónde esta mi cuaderno Cielito Lindo yo no necesito" />
+		<sound id="412" file="412.mp3" title="cuando repruebo un examen Cielito Lindo me llaman tontito" />
+		<sound id="413" file="413.mp3" title="ay ay ay ay canta y no llores" />
+        <sound id="414" file="414.mp3" title="porque hablando se aprende cielito lindo a decirlo todo" />
+
+<!-- Cielito Lindo grammar -->		
+        <sound id="415" file="415.mp3" title="canta y no llores" />
+        <sound id="416" file=".mp3" title="va a la escuela" />
+		<sound id="417" file="2.99.mp3" title="va a la escuela" />
+		<sound id="418" file="2.88.mp3" title="quién es ese estudiante" />
+		<sound id="419" file="2.55.mp3" title="porque cantando se aprende" />
+
+        
+<!-- Cielito Lindo sound quiz 
+        <sound id="440" file="2.16.mp3" title="para bailar __ bamba" />
+		<sound id="441" file="2.13.mp3" title="yo no ___ marinero" />
+		<sound id="442" file="2.5.mp3" title="ay arriba y ______" />
+		<sound id="443" file="2.xx.mp3" title="se ________ una poca de gracia" />
+        <sound id="444" file="2.xx.mp3" title="una poca de gracia y ____ cosita" />
+        <sound id="445" file="18.mp3" title="por ti ____" />
+        <sound id="446" file="2.42.mp3" title="arriba me iré" />
+		<sound id="447" file="2.17.mp3" title="una poca de ______" />
+		<sound id="448" file="2.30.mp3" title="para ______ Cielito Lindo, una poca de gracia" />	
+-->		
+		
+<!-- A Media Luz lyrics page 1 -->
+		<sound id="5" file="5.mp3" title="A Media Luz Song"/>
+		<sound id="581" file="581.karaoke.mp3" title="A Media Luz Karaoke"/>
+		<sound id="582" file="582.lyrics.mp3" title="A Media Luz Lyrics" />
+		<sound id="500" file="500.mp3" title="Corrientes tre cuatro ocho" />
+		<sound id="501" file="501.mp3" title="segundo piso ascensor" />
+		<sound id="502" file="502.mp3" title="no hay porteros ni vecinos" />
+		<sound id="503" file="503.mp3" title="adentro tango y amor" />
+		<sound id="504" file="500.mp3" title="la puertá esta abierta" />
+		<sound id="505" file="505.mp3" title="sala cocina y comedor" />
+		<sound id="506" file="506.mp3" title="un teléfono que contesta" />	
+		<sound id="507" file="507.mp3" title="y una persona que llora" />
+		<sound id="508" file="508.mp3" title="viejos tangos de mi flor  y un gato de porcelana   allí en el baño interior" />
+		
+<!-- A Media Luz lyrics page 2 -->	
+
+		<sound id="509" file="509.mp3" title="y todo a media luz, qué lindo es el amor" />
+		<sound id="510" file="510.mp3" title="a media luz los besos" />		
+		<sound id="511" file="511.mp3" title="a media luz los dos  y todo a media luz" />
+		<sound id="512" file="512.mp3" title="así está mejor" />
+		<sound id="513" file="513.mp3" title="qué suave melodia  la media luz de amor" />
+        <sound id="514" file="514.mp3" title="Juncal doce venticuatro" />
+        <sound id="515" file="515.mp3" title="telefonea sin temor" />
+		<sound id="516" file="516.mp3" title="de tarde té con masitas" />
+		<sound id="517" file="517.mp3" title="de noche tango y amor" />
+        <sound id="518" file="518.mp3" title="los domingos té y baile" />
+		<sound id="519" file="511.mp3" title="los lunes desolación" />
+		
+<!-- A Media Luz grammar -->		
+        <sound id="520" file="515.mp3" title="allí en el baño" />
+        <sound id="521" file=".mp3" title="no hay porteros" />
+		<sound id="522" file="2.99.mp3" title="los lunes desolaciín" />
+		<sound id="523" file="2.88.mp3" title="Juncal doce venticuatro" />
+		<sound id="524" file="2.55.mp3" title="la puerta está abierta" />
+		<sound id="525" file="2.55.mp3" title="qué lindo es el amor" />
+		
+<!-- A Media Luz grammar SER v ESTAR page -->		
+
+        <sound id="530" file="515.mp3" title="yo no soy marinero" />
+        <sound id="531" file=".mp3" title="por ti seré" />
+		<sound id="532" file="2.99.mp3" title="mi marido es el loquito" />
+		<sound id="533" file="2.88.mp3" title="él es un payasito todito" />
+		<sound id="534" file="2.55.mp3" title="yo soy seriecito" />
+		<sound id="535" file="2.55.mp3" title="el gusto es mío" />
+		<sound id="536" file="515.mp3" title="quién es" />
+        <sound id="537" file=".mp3" title="está su abuela" />
+		<sound id="538" file="2.99.mp3" title="dónde está" />
+		<sound id="539" file="2.88.mp3" title="qué lindo es el amor" />
+		<sound id="540" file="2.55.mp3" title="la puerta está abierta" />
+		<sound id="541" file="2.55.mp3" title="así está mejor" />
+		<sound id="542" file="2.99.mp3" title="yo soy un hombre humilde" />
+		<sound id="543" file="2.88.mp3" title="siempre son celosos " />
+		<sound id="544" file="2.55.mp3" title="parece que están dormidos" />
+		<sound id="545" file="2.55.mp3" title="popular entre la tropa era Adelita " />
+	    <sound id="546" file="515.mp3" title="además de ser valiente" />
+        <sound id="547" file=".mp3" title="era bonita" />
+		<sound id="548" file="2.99.mp3" title="si Adelita fuera mi novia" />
+		<sound id="549" file="2.88.mp3" title="si Adelita fuera mi mujer" />
+		<sound id="550" file="2.55.mp3" title="estas son las mañanitas" />
+		<sound id="551" file="2.55.mp3" title="así estaba la mañana" />
+		
+        
+<!-- A Media Luz sound quiz 
+        <sound id="560" file="2.16.mp3" title="para bailar __ bamba" />
+		<sound id="561" file="2.13.mp3" title="yo no ___ marinero" />
+		<sound id="562" file="2.5.mp3" title="ay arriba y ______" />
+		<sound id="563" file="2.xx.mp3" title="se ________ una poca de gracia" />
+        <sound id="564" file="2.xx.mp3" title="una poca de gracia y ____ cosita" />
+        <sound id="565" file="18.mp3" title="por ti ____" />
+        <sound id="566" file="2.42.mp3" title="arriba me iré" />
+		<sound id="567" file="2.17.mp3" title="una poca de ______" />
+		<sound id="568" file="2.30.mp3" title="para ______ A Media Luz, una poca de gracia" />			
+
+		-->
+		
+				
+<!-- Guantanamera lyrics page 1 -->
+		<sound id="6" file="6.mp3" title="Guantanamera Song"/>
+		<sound id="681" file="681.karaoke.mp3" title="Guantanamera Karaoke"/>
+		<sound id="682" file="682.lyrics.mp3" title="Guantanamera Lyrics" />
+		<sound id="600" file="600.mp3" title="Corrientes tre cuatro ocho" />
+		<sound id="601" file="601.mp3" title="segundo piso ascensor" />
+		<sound id="602" file="602.mp3" title="no hay porteros ni vecinos" />
+		<sound id="603" file="603.mp3" title="adentro tango y amor" />
+		<sound id="604" file="600.mp3" title="la puertá esta abierta" />
+		<sound id="605" file="605.mp3" title="sala cocina y comedor" />
+		<sound id="606" file="606.mp3" title="un teléfono que contesta" />	
+		<sound id="607" file="607.mp3" title="y una persona que llora" />
+		<sound id="608" file="608.mp3" title="viejos tangos de mi flor  y un gato de porcelana   allí en el baño interior" />
+		<sound id="609" file="609.mp3" title="y todo Guantanamera, qué lindo es el amor" />
+		
+<!-- Guantanamera lyrics page 2 -->	
+
+		<sound id="610" file="610.mp3" title="Guantanamera los besos" />		
+		<sound id="611" file="611.mp3" title="Guantanamera los dos  y todo Guantanamera" />
+		<sound id="612" file="612.mp3" title="así está mejor" />
+		<sound id="613" file="613.mp3" title="qué suave melodia  lGuantanamera de amor" />
+
+      
+<!-- Guantanamera grammar --> 
+        <sound id="614" file="614.mp3" title="no puedo irme ahora" />      
+        <sound id="615" file="615.mp3" title="quizas" />
+		<sound id="616" file="616.mp3" title="tal vez" />
+		<sound id="617" file="617.mp3" title="tal vez no tengo dinero" />
+        <sound id="618" file="618.mp3" title="yo debo irme a casa" />      
+		<sound id="619" file="611.mp3" title="tal vez mi esposa me espere" />				
+        <sound id="620" file="615.mp3" title="mejor que espere el otro" />
+       
+        <sound id="621" file=".mp3" title="quizás no sabes mi nombre" />
+		<sound id="622" file="2.99.mp3" title="y ni conoces mi cerro" />
+		<sound id="623" file="2.88.mp3" title="jamás" />
+		<sound id="624" file="2.55.mp3" title="siempre" />
+		
+		<sound id="625" file="2.55.mp3" title="qué lindo es el amor" />
+	    <sound id="630" file="615.mp3" title="yo no soy marinero" />
+        <sound id="631" file=".mp3" title="por ti seré" />
+		<sound id="632" file="2.99.mp3" title="mi marido es el loquito" />
+		
+		
+        
+<!-- Guantanamera sound quiz 
+        <sound id="660" file="2.16.mp3" title="para bailar __ bamba" />
+		<sound id="661" file="2.13.mp3" title="yo no ___ marinero" />
+		<sound id="662" file="2.5.mp3" title="ay arriba y ______" />
+		<sound id="663" file="2.xx.mp3" title="se ________ una poca de gracia" />
+        <sound id="664" file="2.xx.mp3" title="una poca de gracia y ____ cosita" />
+        <sound id="665" file="18.mp3" title="por ti ____" />
+        <sound id="666" file="2.42.mp3" title="arriba me iré" />
+		<sound id="667" file="2.17.mp3" title="una poca de ______" />
+		<sound id="668" file="2.30.mp3" title="para ______ Guantanamera, una poca de gracia" />	
+		
+		-->			
+		
+<!-- Ay Cosita Linda lyrics page 1 -->
+		<sound id="7" file="7.mp3" title="Ay Cosita Linda Song"/>
+		<sound id="781" file="781.karaoke.mp3" title="Ay Cosita Linda Karaoke"/>
+		<sound id="782" file="782.lyrics.mp3" title="Ay Cosita Linda Lyrics" />
+		<sound id="700" file="700.mp3" title="Anoche anoche soñé contigo " />
+	    <sound id="701" file="701.mp3" title="soñé una cosa bonita" />
+		<sound id="702" file="702.mp3" title="qué cosa maravillosa" />
+		<sound id="703" file="703.mp3" title="ay cosita linda mi amor" />
+		<sound id="704" file="700.mp3" title="soñaba soñaba que me querías" />	
+		<sound id="705" file="705.mp3" title="soñaba soñaba que me besabas" />	
+		<sound id="706" file="706.mp3" title="y que en mis brazos decías" />		
+		<sound id="707" file="707.mp3" title="ay cosita linda mi amor" />
+		<sound id="708" file="708.mp3" title="anoche, anoche, soñaste conmigo" />		
+		<sound id="709" file="709.mp3" title="soñaste una cosa bonita" />
+		<sound id="710" file="710.mp3" title="qué cosa maravillosa" />
+		
+<!-- Ay Cosita Linda lyrics page 2 -->	
+		
+		<sound id="711" file="711.mp3" title="ay cosita linda mi amor" />
+		<sound id="712" file="712.mp3" title="soñabas soñabas que te quería" />
+		<sound id="713" file="713.mp3" title="soñabas soñabas que te besaba" />
+        <sound id="714" file="714.mp3" title="y que en tus brazos decía" />      
+        <sound id="715" file="715.mp3" title="ay cosita linda mi amor" />
+        
+<!-- Ay Cosita Linda grammar --> 
+
+		<sound id="716" file="716.mp3" title="anoche soñé contigo" />		
+		<sound id="717" file="717.mp3" title="cosita linda mi amor" />		
+        <sound id="718" file="718.mp3" title="soñabas que te quería" />           
+		<sound id="719" file="711.mp3" title="anoche soñé contigo" />						
+        <sound id="720" file="715.mp3" title="soñaba soñaba que me besabas" />
+       
+        <sound id="721" file=".mp3" title="quizás no sabes mi nombre" />
+		<sound id="722" file="2.99.mp3" title="y ni conoces mi cerro" />
+		<sound id="723" file="2.88.mp3" title="jamás" />
+		<sound id="724" file="2.55.mp3" title="siempre" />
+		
+		<sound id="725" file="2.55.mp3" title="qué lindo es el amor" />
+	    <sound id="730" file="715.mp3" title="yo no soy marinero" />
+        <sound id="731" file=".mp3" title="por ti seré" />
+		<sound id="732" file="2.99.mp3" title="mi marido es el loquito" />
+		
+		
+        
+<!-- Ay Cosita Linda sound quiz 
+        <sound id="760" file="2.16.mp3" title="para bailar __ bamba" />
+		<sound id="761" file="2.13.mp3" title="yo no ___ marinero" />
+		<sound id="762" file="2.5.mp3" title="ay arriba y ______" />
+		<sound id="763" file="2.xx.mp3" title="se ________ una poca de gracia" />
+        <sound id="764" file="2.xx.mp3" title="una poca de gracia y ____ cosita" />
+        <sound id="765" file="18.mp3" title="por ti ____" />
+        <sound id="766" file="2.42.mp3" title="arriba me iré" />
+		<sound id="767" file="2.17.mp3" title="una poca de ______" />
+		<sound id="768" file="2.30.mp3" title="para ______ Ay Cosita Linda, una poca de gracia" />	
+		
+		-->			
+		
+
+<!-- Alla en el Rancho Grande lyrics page 1 -->
+		<sound id="8" file="8.mp3" title="Alla en el Rancho Grande Song"/>
+		<sound id="881" file="881.karaoke.mp3" title="Alla en el Rancho Grande Karaoke"/>
+		<sound id="882" file="882.lyrics.mp3" title="Alla en el Rancho Grande Lyrics" />
+		<sound id="800" file="800.mp3" title="allá en el rancho grande" />
+	    <sound id="801" file="801.mp3" title="allá donde vivía " />
+		<sound id="802" file="802.mp3" title="había una rancherita" />
+		<sound id="803" file="803.mp3" title="que alegre me decía " />
+		<sound id="804" file="800.mp3" title="te voy a hacer pantalones" />	
+		<sound id="805" file="805.mp3" title="como los que usa el ranchero " />	
+		<sound id="806" file="806.mp3" title="espero que no queden chicos" />		
+		<sound id="807" file="807.mp3" title="porque después no hay remedio" />
+
+<!-- Alla en el Rancho Grande lyrics page 2 -->
+			
+		<sound id="808" file="808.mp3" title="nunca confíes de promesas" />		
+		<sound id="809" file="809.mp3" title="ni mucho menos de amores" />
+		<sound id="810" file="810.mp3" title="ten cuidado con los hombres" />
+		<sound id="811" file="811.mp3" title="verás que siempre son celosos " />
+		<sound id="812" file="812.mp3" title="pon muy atento el oído" />
+		<sound id="813" file="813.mp3" title="cuando te habla tu querido" />
+        <sound id="814" file="814.mp3" title="hay gente que no escucha nunca" />
+        <sound id="815" file="815.mp3" title="parece que están dormidos" />
+     
+              
+<!-- Alla en el Rancho Grande grammar -->       
+        <sound id="816" file="815.mp3" title="espero que" />
+        <sound id="817" file="800.mp3" title="allá en el rancho grande" />
+		<sound id="818" file="816.mp3" title="más que" />		
+		<sound id="819" file="817.mp3" title="menos que" />		
+         
+		<sound id="819" file="811.mp3" title="anoche soñé contigo" />						
+        <sound id="820" file="815.mp3" title="soñaba soñaba que me besabas" />
+        <sound id="821" file=".mp3" title="quizás no sabes mi nombre" />
+		<sound id="822" file="2.99.mp3" title="y ni conoces mi cerro" />
+		<sound id="823" file="2.88.mp3" title="jamás" />
+		<sound id="824" file="2.55.mp3" title="siempre" />
+		
+		<sound id="825" file="2.55.mp3" title="qué lindo es el amor" />
+	    <sound id="830" file="815.mp3" title="yo no soy marinero" />
+        <sound id="831" file=".mp3" title="por ti seré" />
+		<sound id="832" file="2.99.mp3" title="mi marido es el loquito" />
+		
+		
+        
+<!-- Alla en el Rancho Grande sound quiz 
+        <sound id="860" file="2.16.mp3" title="para bailar __ bamba" />
+		<sound id="861" file="2.13.mp3" title="yo no ___ marinero" />
+		<sound id="862" file="2.5.mp3" title="ay arriba y ______" />
+		<sound id="863" file="2.xx.mp3" title="se ________ una poca de gracia" />
+        <sound id="864" file="2.xx.mp3" title="una poca de gracia y ____ cosita" />
+        <sound id="865" file="18.mp3" title="por ti ____" />
+        <sound id="866" file="2.42.mp3" title="arriba me iré" />
+		<sound id="867" file="2.17.mp3" title="una poca de ______" />
+		<sound id="868" file="2.30.mp3" title="para ______ Alla en el Rancho Grande, una poca de gracia" />	
+		
+		-->		
+	</audiolist>
+
+	<swflist path="swfs/" >
+		<swf id="1" file="bamba2.swf" width="800" height="500" title="La Bamba Animation" />
+		<swf id="2" file="carnavalito.swf" width="800" height="500" title="Carnavalito Animation" />
+		<swf id="3" file="cucaracha.swf" width="800" height="500" title="La Cucaracha Animation" />
+		<swf id="4" file="cielito.swf" width="800" height="500" title="Cielito Lindo Animation" />
+		<swf id="5" file="media.swf" width="800" height="500" title="A Media Luz Animation" />
+		<swf id="6" file="guantanamera.swf" width="800" height="500" title="Guantanamera Animation" />
+		<swf id="7" file="cosita.swf" width="800" height="500" title="Ay Cosita Linda Animation" />
+		<swf id="8" file="rancho.swf" width="800" height="500" title="Alla en el Rancho Grande Animation" />
+	</swflist>
+</ebook>
